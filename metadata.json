@@ -1,0 +1,6 @@
+{
+  "name": "개인 업무 체크리스트",
+  "description": "개인 업무 할 일을 등록·분류·완료 처리하고 마감일 및 지연 상태를 관리하는 모바일 최적화 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
